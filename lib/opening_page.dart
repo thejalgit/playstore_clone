@@ -194,6 +194,7 @@ class _FirstpageState extends State<Firstpage> {
                       Text(business[index]['name']),
                       Text(business[index]['rating']),
                       Icon(Icons.star, size: 13),
+
                     ],
                   ),
                 );
